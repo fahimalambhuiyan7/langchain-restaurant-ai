@@ -4,9 +4,14 @@ from langchain.prompts import PromptTemplate
 from langchain import LLMChain
 from langchain.chains import SequentialChain
 
-os.environ["GOOGLE_API_KEY"] ="AIzaSyAqCgcE_ouAfFm3vcpm7LCksbx3IvLj7zg"
-llm = ChatGoogleGenerativeAI(model="gemini-1.5-flash", temperature=0.6,api_key=os.getenv("GOOGLE_API_KEY")
+GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
+
+llm = ChatGoogleGenerativeAI(
+    model="gemini-1.5-flash",
+    temperature=0.6,
+    google_api_key=GOOGLE_API_KEY
 )
+print("Key from env:", os.getenv("GOOGLE_API_KEY"))
 
 def generate_resturant(cuisine):
     prompt_template_name = PromptTemplate(
